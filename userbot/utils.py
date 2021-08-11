@@ -188,6 +188,10 @@ def load_module(shortname):
         mod.Config = Config
         mod.borg = bot
         mod.userbot = bot
+        mod.mellow = bot
+        mod.sahil = bot
+        mod.ultroid = bot
+        # support for devs and @Sir_Kali_xd i edited this few modules accourding to my requirements
         # auto-load
         mod.lightning_cmd = lightning_cmd
         mod.sudo_cmd = sudo_cmd
